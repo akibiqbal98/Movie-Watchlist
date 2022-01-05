@@ -62,8 +62,7 @@ h1, h2, h3, h4, h5 {
 h1 {
     font-size: 1.75em;
     margin: 0 0 20px;
-    font-weight: 300;
-    color: #666;
+    color: #d2a192;
 }
 
 h2 {
@@ -602,7 +601,7 @@ td ul.errorlist li {
 /* BREADCRUMBS */
 
 div.breadcrumbs {
-    background: #79aec8;
+    background: #c88b79cf;
     padding: 10px 60px;
     border: none;
     font-size: 14px;
@@ -815,7 +814,7 @@ table#change-history tbody th {
     justify-content: space-between;
     align-items: center;
     padding: 0px 60px;
-    background: #417690;
+    background: #904c4194;
     color: #ffc;
     overflow: hidden;
 }
@@ -842,7 +841,7 @@ table#change-history tbody th {
 
 #branding h1, #branding h1 a:link, #branding h1 a:visited {
     color: #f5dd5d;
-    font-family: "darkline.regular";
+    font-family: "Magilio";
     font-size: 2.5rem;
 }
 
